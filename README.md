@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Felipe, a Computer Science graduate and full-stack developer. I'm an enthusiast of AI and automation. <br>
+Computer Science graduate transitioning into DevOps/SRE. I'm an enthusiast of AI and automation. <br>
 Here, I document my evolution process.
 
 ###
