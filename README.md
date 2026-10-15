@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-Computer Science graduate transitioning into DevOps/SRE. I'm an enthusiast of AI and automation. <br>
+I'm a Computer Science graduate with a background in Infrastructure, currently transitioning into DevOps / SRE. <br>
 Here, I document my evolution process.
 
 ###
 
 ## Techs and Tools ⚡
-![Habilidades:](https://skillicons.dev/icons?i=python,react,typescript,postgresql,docker,linux)
+[![My Skills](https://skillicons.dev/icons?i=python,docker,terraform,githubactions,postgresql,linux)](https://skillicons.dev)
 
 
 
@@ -15,4 +15,3 @@ Here, I document my evolution process.
 ## Contact 📬
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-felipe-ss/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:felipesantoss427@gmail.com)
-
